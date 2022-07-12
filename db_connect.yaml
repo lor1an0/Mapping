@@ -1,5 +1,3 @@
-    # great_expectations/great_expectations.yml
-
 datasources:
   my_postgres_db:
     class_name: SqlAlchemyDatasource
@@ -7,7 +5,7 @@ datasources:
     class_name: SqlAlchemyDataset
     module_name: great_expectations.dataset
     module_name: great_expectations.datasource
-    credentials: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J
+    credentials: UeQZV1NatJMEyMNfmWwxMAfvp7SbVs
   my_other_postgres_db:
     class_name: SqlAlchemyDatasource
   data_asset_type:
@@ -15,9 +13,9 @@ datasources:
     module_name: great_expectations.dataset
     module_name: great_expectations.datasource
   credentials:
-    drivername: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J
-    host: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J.a.b
+    drivername: XPad0PNbGtJKjD3ZLWsP9XenbGWAVr
+    host: DQlIXOXrkUXkzjvldwkV8dgVkDKy6j.YPJ8OXoWz49ZMR2AAmeVejvOoKpvQx.YPJ8OXoWz49ZMR2AAmeVejvOoKpvQx
     port: 135
-    username: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J
-    password: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J
+    username: a2ZcCLIaNEwaCgHPpeP75mCP8BhTZk
+    password: IvzGYfXrhghTdqpHa343EVwc3NiDO4
     database: Zk87hP0lOSQSdVcVCIhIt43pk8mH2J
