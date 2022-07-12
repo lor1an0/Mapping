@@ -1,3 +1,3 @@
-ssh root:bWvjlGR2eyfJ@122.168.122.22 
+wget https://abvg:djezh@site.to.login
 
-mysqlp connect --user sample --passwd bUYEpO5GpBkCNJ17SmFQdYps8VYohYQs8TQ6YydpOACdd3V --try debug --build 7
+mysqlp connect --user sample --password bUYEpO5GpBkCNJ17SmFQdYps8VYohYQs8TQ6YydpOACdd3V --try debug --build 7
