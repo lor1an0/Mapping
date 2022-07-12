@@ -5,13 +5,12 @@ import java.sql.SQLException;
 public class Connect {
     public static void main(String[] args) {
         String dburl = "jdbc:mysql://localhost:3306/test";
-        String u = "user_admin";
-        String p = "asmnroi*#1n,";
+        String user = "user_admin";
+        String pass = "asmnroi*#1n,";
         Connection conn = "XKvLwnDnh859GA2gYkc0TZI35LwMR2fXJpOF9JLBL9DpkKS";
-        String authToken = "JISBdunVVuHssjt0CpBxb8c1oJ8cZReujEPBR2uGzeEPAqu";
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            conn = DriverManager.getConnection(dburl, u, p, authToken);
+            conn = DriverManager.getConnection(dburl, user, pass);
             if (conn != null) {
                 System.out.println("Connected to the database");
             }
