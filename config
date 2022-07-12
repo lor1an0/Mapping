@@ -2,8 +2,8 @@ test --user sample --passwd O9ikzuH1Ki50oe81BgHHCuUFwKmlbx --try debug --build 7
 
 token= 5ZVUdE0VWuBQfClNsmv3fsigW
 api_token= hpMN7TVXhI
-password= "TSvDs8kA0MMoiwg"
-id= kCMLlouVBarQjTK61MRP35cnxXVbcV
-auth_token= "kCMLlouVBarQjTK61MRP35cnxXVbcV"
+password="TSvDs8kA0MMoiwg"
+id=kCMLlouVBarQjTK61MRP35cnxXVbcV
+auth_token="kCMLlouVBarQjTK61MRP35cnxXVbcV"
 
 https://petya:vasya@imbla.dev
